@@ -9,11 +9,11 @@
 EC2 monitor is a Python script that uses boto3 (AWS SDK for Python) to inspect EC2 instances in your AWS account and print key details such as Instance ID, Instance Type, State, Public IP, and basic cost-risk visibility based on whether the instance is running. The script is read-only and does not create, modify, or delete AWS resources.
 ---
 
-Screenshot1:
+Screenshot 1:
 
 <img src="pic01.png" width="400" alt="adpic">
 
-Screenshot2:
+Screenshot 2:
 
 <img src="pic02.png" width="400" alt="addpic">
 
@@ -46,4 +46,5 @@ Minimum required permission:
 
 # Run:
 python ec2_instance_inspector.py
+
 
