@@ -44,6 +44,6 @@ Minimum required permission:
 ```
 
 # Run:
-python ec2_instance_inspector.py
+python -m ec2_monitor_py
 
 
